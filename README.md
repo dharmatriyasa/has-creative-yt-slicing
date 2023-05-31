@@ -1,16 +1,22 @@
-# has_creative
+# INTRODUCTION
 
-has creative youtube page
+This is a simple project to slice one of my favorite youtube channel which is Has Creative. If you interested with the channel you can check this out https://www.youtube.com/@HASCreative
 
-## Getting Started
+## How To Run the App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### clone the project
+```agsl
+git clone git@github.com:dharmatriyasa/flutter-dependency-injection.git
+```
+or
+```agsl
+git clone https://github.com/dharmatriyasa/flutter-dependency-injection.git
+```
+#### configure the dependencies
+```agsl
+flutter pub get
+```
+#### run the app
+```agsl
+flutter run
+```
